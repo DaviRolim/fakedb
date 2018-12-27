@@ -1,72 +1,14 @@
-[
-   {
-      "_id":"5c10d731593a16226efb8cf3",
-      "contributors":[
-         "5c08f366cb41a71dc7b7592c"
-      ],
-      "title":"Amazing Book",
-      "description":"Atomic habits book - you can find the best price on amazon",
-      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51xCkzASckL._SX329_BO1,204,203,200_.jpg",
-      "averagePrice":52.99,
-      "creator":"5c08f366cb41a71dc7b7592c",
-      "createdAt":"2018-12-12T09:38:57.293Z",
-      "updatedAt":"2018-12-12T09:39:36.511Z",
-      "__v":1
-   },
-   {
-      "_id":"5c10d731593a16226efb8cf3",
-      "contributors":[
-         "5c08f366cb41a71dc7b7592c"
-      ],
-      "title":"Amazing Book",
-      "description":"Atomic habits book - you can find the best price on amazon",
-      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51xCkzASckL._SX329_BO1,204,203,200_.jpg",
-      "averagePrice":52.99,
-      "creator":"5c08f366cb41a71dc7b7592c",
-      "createdAt":"2018-12-12T09:38:57.293Z",
-      "updatedAt":"2018-12-12T09:39:36.511Z",
-      "__v":1
-   },
-   {
-      "_id":"5c10d731593a16226efb8cf3",
-      "contributors":[
-         "5c08f366cb41a71dc7b7592c"
-      ],
-      "title":"Amazing Book",
-      "description":"Atomic habits book - you can find the best price on amazon",
-      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51xCkzASckL._SX329_BO1,204,203,200_.jpg",
-      "averagePrice":52.99,
-      "creator":"5c08f366cb41a71dc7b7592c",
-      "createdAt":"2018-12-12T09:38:57.293Z",
-      "updatedAt":"2018-12-12T09:39:36.511Z",
-      "__v":1
-   },
-   {
-      "_id":"5c10d731593a16226efb8cf3",
-      "contributors":[
-         "5c08f366cb41a71dc7b7592c"
-      ],
-      "title":"Amazing Book",
-      "description":"Atomic habits book - you can find the best price on amazon",
-      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51xCkzASckL._SX329_BO1,204,203,200_.jpg",
-      "averagePrice":52.99,
-      "creator":"5c08f366cb41a71dc7b7592c",
-      "createdAt":"2018-12-12T09:38:57.293Z",
-      "updatedAt":"2018-12-12T09:39:36.511Z",
-      "__v":1
-   },
-   {
-      "_id":"5c10d731593a16226efb8cf3",
-      "contributors":[
-         "5c08f366cb41a71dc7b7592c"
-      ],
-      "title":"Amazing Book",
-      "description":"Atomic habits book - you can find the best price on amazon",
-      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51xCkzASckL._SX329_BO1,204,203,200_.jpg",
-      "averagePrice":52.99,
-      "creator":"5c08f366cb41a71dc7b7592c",
-      "createdAt":"2018-12-12T09:38:57.293Z",
-      "updatedAt":"2018-12-12T09:39:36.511Z",
-      "__v":1
-   }
-]
+{  
+   "_id":"5c10d731593a16226efb8cf3",
+   "contributors":[  
+      "5c08f366cb41a71dc7b7592c"
+   ],
+   "title":"Amazing Book",
+   "description":"Atomic habits book - you can find the best price on amazon",
+   "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51xCkzASckL._SX329_BO1,204,203,200_.jpg",
+   "averagePrice":52.99,
+   "creator":"5c08f366cb41a71dc7b7592c",
+   "createdAt":"2018-12-12T09:38:57.293Z",
+   "updatedAt":"2018-12-12T09:39:36.511Z",
+   "__v":1
+}
